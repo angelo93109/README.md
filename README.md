@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋, I'm Angelo from Taiwan. </h1>
-<h3 align="center"> Graduated from National Yang Ming Chiao Tung University </h3>
+<h3 align="center"> Master: National Yang Ming Chiao Tung University </h3>
 <h3 align="center"> A Passionate Digital IC Designer </h3>
 
 <div align="center">
